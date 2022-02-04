@@ -1,0 +1,54 @@
+body{
+    background-color: gainsboro;
+}
+.container{
+    width: 99%;
+    margin: auto;
+    display: flex;
+}
+
+.box{
+    width: 40%;
+}
+
+h1{
+    
+    color: maroon;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 34px;
+}
+input{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    width: 400px;
+    height: 300px;
+}
+
+button, #submit{
+    width: 150px;
+    height: 40px;
+    color: white;
+    font-size: 22px;
+    background-color: rgb(58, 18, 150);
+    margin-right: 10px;
+}
+p{
+    font-size: 20px;
+}
+
+#main{
+     border: 1px solid gray;
+     padding: 20px;
+     margin-bottom: 5px;
+}
+img{
+    width: 100px;
+    height: 50px;
+}
